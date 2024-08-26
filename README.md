@@ -9,21 +9,6 @@
 - **Custom Keywords Management:** Easily manage keywords for each product category.
 - **Bulk Action Integration:** Apply categorization in bulk from the WooCommerce products page.
 
-## Installation
-
-1. **Download the Plugin:**
-   Download the plugin ZIP file or clone the repository.
-
-2. **Upload the Plugin:**
-   - Go to the WordPress admin dashboard.
-   - Navigate to `Plugins` > `Add New`.
-   - Click `Upload Plugin` and choose the downloaded ZIP file.
-   - Click `Install Now` and then `Activate Plugin`.
-
-3. **Configure the Plugin:**
-   - Go to `Settings` > `Product Categorization` in the WordPress admin menu.
-   - Configure the categories and keywords as needed.
-
 ## Usage
 
 1. **Set Up Keywords:**

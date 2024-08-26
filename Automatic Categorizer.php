@@ -145,12 +145,9 @@ function has_keywords( $string, $keywords ) {
       }
   }}
 
-// Hook the modified function to the correctbulk action:
-
 
 
 // Add the custom bulk action
-add_filter( 'bulk_actions-edit-product', 'add_categorize_bulk_action' );
 function add_categorize_bulk_action( $bulk_actions ) {
   $bulk_actions['handle_bulk_action_categorize'] = 'Categorize';
   return $bulk_actions;
